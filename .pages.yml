@@ -2,7 +2,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: content/posts
+    path: posts
     fields:
       - name: title
         label: Title
@@ -21,4 +21,4 @@ content:
         type: rich-text
     format: yaml-frontmatter
 
-media: content/media
+media: media
