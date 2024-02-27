@@ -1,0 +1,27 @@
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/content/posts
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: publishDate
+        label: Publish Date
+        type: date
+      - name: description
+        label: Description
+        type: text
+      - name: coverImage
+        label: Cover Image
+        type: image
+      - name: body
+        label: Body
+        type: rich-text
+    format: yaml-frontmatter
+
+media:
+  input: public/images
+  output: /images
+  path: images
