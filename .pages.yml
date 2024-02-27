@@ -21,4 +21,4 @@ content:
         type: rich-text
     format: yaml-frontmatter
 
-media: media
+media: content/media
