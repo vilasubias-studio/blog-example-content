@@ -2,7 +2,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: src/content/blog
+    path: posts
     fields:
       - name: title
         label: Title
@@ -21,7 +21,4 @@ content:
         type: rich-text
     format: yaml-frontmatter
 
-media:
-  input: src/content/blog/images
-  output: src/content/blog/images
-  path: src/content/blog/images
+media: media
