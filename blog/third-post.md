@@ -1,5 +1,5 @@
 ---
-title: Third post!!!
+title: Third post!
 pubDate: 2022-07-22
 description: Lorem ipsum dolor sit amet
 heroImage: /media/blog-placeholder-2.jpg
