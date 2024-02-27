@@ -22,6 +22,6 @@ content:
     format: yaml-frontmatter
 
 media:
-  input: public/images
-  output: /images
+  input: src/content/blog/images
+  output: src/content/blog/images
   path: images
