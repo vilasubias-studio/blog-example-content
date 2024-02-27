@@ -24,4 +24,4 @@ content:
 media:
   input: src/content/blog/images
   output: src/content/blog/images
-  path: images
+  path: src/content/blog/images
