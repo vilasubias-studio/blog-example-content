@@ -7,13 +7,13 @@ content:
       - name: title
         label: Title
         type: string
-      - name: publishDate
+      - name: pubDate
         label: Publish Date
         type: date
       - name: description
         label: Description
         type: text
-      - name: coverImage
+      - name: heroImage
         label: Cover Image
         type: image
       - name: body
